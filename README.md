@@ -1,2 +1,2 @@
-# Rememberella
+# Remembrella
 Android weather reminder app
